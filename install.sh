@@ -1,7 +1,7 @@
 #!/bin/bash
 
 OAH_VERSION=0.0.1-a1
-OAH_NAMESPACE=${OAH_NAMESPACE:=pramit-d}
+OAH_NAMESPACE=pramit-d
 OAH_ROOT=${OAH_ROOT:="$HOME"}
 OAH_DIR="$OAH_ROOT/.oah"
 OAH_INSTALLER_TMP_FOLDER=$OAH_ROOT/tmp/oah-installer
